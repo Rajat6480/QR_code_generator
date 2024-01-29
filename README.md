@@ -19,4 +19,4 @@ This is a simple QR Code Generator web application built with JavaScript, HTML, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/Rajat6480/QR_code_generator.git
